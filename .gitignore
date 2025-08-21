@@ -1,0 +1,131 @@
+# Kotlin/Java/Android
+*.iml
+.gradle/
+build/
+/local.properties
+/.idea/
+.DS_Store
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_*
+*.db
+*.jks
+*.keystore
+*.log
+*.hprof
+*.orig
+*.rej
+*.swp
+*.lock
+*.tmp
+*.bak
+*.class
+*.dex
+*.jar
+*.war
+*.ear
+*.so
+*.o
+*.a
+*.lib
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.tar
+*.gz
+*.xz
+*.bin
+*.obj
+*.elf
+*.map
+*.out
+*.app
+*.ipa
+*.dSYM/
+*.cxx/
+.idea/
+*.iws
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.nfs*
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Keystore files
+*.jks
+*.keystore
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Generated files
+/captures/
+output.json
+
+# Crashlytics
+crashlytics-build.properties
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Misc
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# Kotlin
+*.kotlin_module
+
+# JetBrains
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# VS Code
+.vscode/
+# End of file
