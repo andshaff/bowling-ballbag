@@ -52,6 +52,9 @@ build/
 *.cxx/
 .idea/
 *.iws
+**/drawable/*.png
+**/drawable/*.jpg
+**/drawable/*.jpeg
 
 # macOS
 .DS_Store
